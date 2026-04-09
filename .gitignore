@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# 敏感信息
+.env
+api_key.txt
